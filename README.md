@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=talent0103)](https://solved.ac/talent0103/)
+
+일정 : https://www.notion.so/7cdb537d0e8a4164abb5955ab1333f36
