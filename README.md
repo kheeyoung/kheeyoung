@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 
 일정 : https://www.notion.so/7cdb537d0e8a4164abb5955ab1333f36 <br/>
 homepage: https://nextapp--myportfolio-26c0e.asia-east1.hosted.app/
+blog : https://velog.io/@k_heeyoung/posts
