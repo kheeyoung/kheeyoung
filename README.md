@@ -11,9 +11,28 @@ Terraform, Docker, GitHub Actions를 활용해
 
 ## 📌 Basic Info
 
-| | |
-|---|---|
-| **Email**<br/>[Talent8661@gmail.com](mailto:Talent8661@gmail.com)<br/><br/>**GitHub**<br/>[github.com/kheeyoung](https://github.com/kheeyoung)<br/><br/>**Blog**<br/>[velog.io/@k_heeyoung](https://velog.io/@k_heeyoung/posts) | [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=talent0103)](https://solved.ac/talent0103/) |
+<div style="display: flex; justify-content: space-between; align-items: center;">
+
+<div>
+
+**Email**  
+[Talent8661@gmail.com](mailto:Talent8661@gmail.com)
+
+**GitHub**  
+https://github.com/kheeyoung
+
+**Blog**  
+https://velog.io/@k_heeyoung/posts
+
+</div>
+
+<div>
+  <a href="https://solved.ac/talent0103/">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=talent0103" />
+  </a>
+</div>
+
+</div>
 
 
 ---
