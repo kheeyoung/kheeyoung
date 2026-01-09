@@ -11,11 +11,10 @@ Terraform, Docker, GitHub Actions를 활용해
 
 ## 📌 Basic Info
 
-* **Email**: [Talent8661@gmail.com](mailto:Talent8661@gmail.com)
-* **GitHub**: [github.com/kheeyoung](https://github.com/kheeyoung)
-* **Blog**: [velog.io/@k_heeyoung](https://velog.io/@k_heeyoung/posts)
+| | |
+|---|---|
+| **Email**<br/>[Talent8661@gmail.com](mailto:Talent8661@gmail.com)<br/><br/>**GitHub**<br/>[github.com/kheeyoung](https://github.com/kheeyoung)<br/><br/>**Blog**<br/>[velog.io/@k_heeyoung](https://velog.io/@k_heeyoung/posts) | [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=talent0103)](https://solved.ac/talent0103/) |
 
-* [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=talent0103)](https://solved.ac/talent0103/)
 
 ---
 
