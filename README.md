@@ -1,7 +1,7 @@
 # 김희영 | Backend Engineer
 
 Spring Boot 기반 백엔드 개발을 중심으로
-**API 설계 → 테스트 → 배포까지 전 과정을 경험한 백엔드 엔지니어**입니다.
+**API 설계 → 테스트 → 배포까지 전 과정을 다루는 백엔드 엔지니어**입니다.
 
 Terraform, Docker, GitHub Actions를 활용해
 **인프라 구성과 CI/CD 구축 등 DevOps 전반을 직접 설계·운영**한 경험이 있습니다.
