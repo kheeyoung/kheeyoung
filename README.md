@@ -15,6 +15,8 @@ Terraform, Docker, GitHub Actions를 활용해
 * **GitHub**: [github.com/kheeyoung](https://github.com/kheeyoung)
 * **Blog**: [velog.io/@k_heeyoung](https://velog.io/@k_heeyoung/posts)
 
+* [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=talent0103)](https://solved.ac/talent0103/)
+
 ---
 
 ## 🛠 Tech Stack
@@ -156,9 +158,4 @@ Terraform, Docker, GitHub Actions를 활용해
 
 * 정보처리기사 (2024.09)
 
----
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=talent0103)](https://solved.ac/talent0103/)
-
-일정 : https://www.notion.so/7cdb537d0e8a4164abb5955ab1333f36 <br/>
-blog : https://velog.io/@k_heeyoung/posts
